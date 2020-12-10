@@ -1,4 +1,4 @@
-package dad.template.javafx;
+package dad.javafx.examen;
 
 import java.io.IOException;
 import java.net.URL;
